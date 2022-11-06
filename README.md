@@ -2,4 +2,4 @@
 ![NFT Marketplace](https://i.ibb.co/X5kYdvB/image.png)
 
 ## Introduction
- Hi Folks! so 
+ Hi Folks! This Repository is for modern NFT Marketplace for IOS and ANDROID built using #ReactNative !
