@@ -1,5 +1,5 @@
 # NFT Marketplace - React Native App
-![Web3 Social App](https://ibb.co/y541vXK)
+![Web3 Social App](https://i.ibb.co/ftD562Z/01-BI-WEB3-STACKPOLE-HERO.jpg)
 
 ## Introduction
  ### *Hi Folks! This Repository is for modern NFT Marketplace for IOS and ANDROID built using* **#ReactNative** !
